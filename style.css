@@ -20,6 +20,10 @@
 .txt-clr {
     color:rgba(36, 36, 50, 50%);
 }
+
+.txt-clr2 {
+    color: #4E47FF;
+}
 .sec-one {
     width: 1140px;
     height: 328px;
@@ -88,4 +92,32 @@ img {
 }
 p.action-descip.txt-clr {
     width: 60%;
+}
+/* users section design */
+.users-con {
+    display: flex;
+    /* gap: 50px; */
+    justify-content:space-around;
+    align-items: center;
+
+}
+.user-sec {
+    width: 1140px;
+    height: 306px;
+    background-color: rgba(78, 71, 255, 10%);
+    border-radius: 24px;
+    margin: 35px 106px;
+}
+
+h3.user-title {
+    text-align: center;
+    padding-top: 45px;
+}
+h1.clr{
+    text-align: center;
+    margin: 25px 0px;
+    font-family: fantasy;
+    font-weight: 800;
+    color: #4E47FF;
+    font-size: 60px;
 }
