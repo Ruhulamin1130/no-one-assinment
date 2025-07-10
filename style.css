@@ -1,0 +1,61 @@
+
+/* google font use */
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* shared common style */
+.btn-one {
+    background-color: #4E47FF;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.blc-one {
+    color: #252432;
+}
+ /* Header style start  */
+
+ .hed-bg {
+    background-image: url(Assets/Hero-bg.png);
+ }
+ header.hed-bg {
+    text-align: center;
+}
+/* nav-bar style start */
+nav.nav-bar {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px 20px 150px;
+}
+
+nav h1 {
+        
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: 800;
+}
+button.btn-one {
+    width: 132px;
+    height: 42px;
+}
+.hed-text {
+    width: 903px;
+    height: 120px;
+    text-align: center;
+}
+.heder-last {
+    
+    padding-bottom: 86px;
+    
+    margin-top: 40px;
+}
+.heder-last h2 {
+    font-size: 60px;
+    font-weight: 800px;
+}
