@@ -17,6 +17,14 @@
 .blc-one {
     color: #252432;
 }
+.txt-clr {
+    color:rgba(36, 36, 50, 50%);
+}
+.sec-one {
+    width: 1140px;
+    height: 328px;
+    margin: 100px 130px;
+}
  /* Header style start  */
 
  .hed-bg {
@@ -58,4 +66,26 @@ button.btn-one {
 .heder-last h2 {
     font-size: 60px;
     font-weight: 800px;
+}
+/* main style start here */
+/* action style */
+.sec-one {
+    width: 1140px;
+    height: 328px;
+}
+section.sec-one {
+    display: flex;
+
+    margin: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+ button.btn-one.three {
+    width: 160px;
+}
+img {
+    border-radius: 48px;
+}
+p.action-descip.txt-clr {
+    width: 60%;
 }
