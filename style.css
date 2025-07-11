@@ -152,3 +152,38 @@ h2.usr-tit {
 section.user-sec.sey {
     background-color: white;
 }
+
+/* touch sec start here */
+
+section.touch-sec {
+    width: 1140px;
+    height: 632px;
+}
+
+.touch-contaner {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+}
+section input[type="text"], section input[type="email"], section textarea {
+    width: 494px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+
+}
+h1.touch-titl {
+    font-size: 65px;
+    font-weight: 800;
+}
+button.btn-one.tuc-btn {
+    width: 532px;
+}
+h1.touch-titl {
+    width: 360px;
+}
