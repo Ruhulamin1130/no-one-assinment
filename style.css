@@ -121,3 +121,34 @@ h1.clr{
     color: #4E47FF;
     font-size: 60px;
 }
+/* user reveow items */
+
+
+h2.usr-tit {
+    text-align: center;
+    /* margin: 16px 0px; */
+    padding: 20px 0px;
+}
+
+.revew-container {
+    display: flex;
+}
+
+.rev-con {
+    width: 320px;
+    height: 244px;
+    background-color: #f2e8e880;
+    border-radius: 25px;
+    margin: 0px 20px;
+    padding: 5px 10px;
+}
+
+.imge-cont {
+    display: flex;
+    
+    gap: 19px;
+    align-items: center;
+}
+section.user-sec.sey {
+    background-color: white;
+}
