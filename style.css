@@ -187,3 +187,29 @@ button.btn-one.tuc-btn {
 h1.touch-titl {
     width: 360px;
 }
+/* footer start here */
+footer {
+    text-align: center;
+}
+
+h1.logo {
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+p.ft-p {
+    width: 531px;
+    margin: auto;
+    color: #8987A1;
+    padding: 7px 0px;
+}
+
+.logo-a-tag a {
+    text-decoration: none;
+    padding: 17px;
+    color: #8987A1;
+}
+.logo-a-tag {
+    margin-top: 20px;
+}
